@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 public class AddToCartPage
 {
+	//adding
 	public static By addToCartLoc = By.xpath("(//a[text()='Add to Cart'])[1]");
 	
 	public static By removeLoc = By.linkText("Remove");
